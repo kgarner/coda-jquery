@@ -1,0 +1,7 @@
+Version 1.0
+	Initial Release
+Version 1.5
+	Added more functions and hinting via the hints panel
+Version 2.0
+	Updated to include function from up to jQuery 1.6.2
+	Now suggestions are available on functions. I.e. a function that has a duration attribute will show fast or slow in suggestions, etc.
